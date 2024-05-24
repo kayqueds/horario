@@ -1,0 +1,31 @@
+body{
+    background-color: skyblue;
+    background-image: linear-gradient();
+    font: normal 15pt 'Arial';
+}
+header, footer{
+    color: #fff;
+    text-align: center;
+}
+footer{
+    font-style: italic;
+}
+section{
+    background-color: #fff;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.342) ;
+    padding: 15px;
+}
+div{
+    text-align: center;
+    margin-bottom: 30px;
+    font: normal 15pt 'Arial', serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#ima{
+    width: 50%;
+    border-radius: 90%;
+    height: 28vh;
+}
